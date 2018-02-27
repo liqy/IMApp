@@ -6,6 +6,9 @@ import android.widget.TextView;
 
 import com.meituan.android.walle.WalleChannelReader;
 
+/**
+ * 升级修改BUG
+ */
 public class MainActivity extends AppCompatActivity {
 
     static {
