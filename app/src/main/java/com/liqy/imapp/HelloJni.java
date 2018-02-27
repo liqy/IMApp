@@ -6,4 +6,7 @@ package com.liqy.imapp;
 
 public class HelloJni {
     public native String fromJniString();
+    public  static native String fromString();
+    public  native String toString(String str,int a);
+
 }
