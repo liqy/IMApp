@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IMApp.iml" filepath="$PROJECT_DIR$/IMApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidldemo/aidldemo.iml" filepath="$PROJECT_DIR$/aidldemo/aidldemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/commonlib/commonlib.iml" filepath="$PROJECT_DIR$/commonlib/commonlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remote/remote.iml" filepath="$PROJECT_DIR$/remote/remote.iml" />
     </modules>
   </component>
 </project>

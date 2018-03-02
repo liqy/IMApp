@@ -1,7 +1,9 @@
 package com.liqy.imapp;
 
+import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.meituan.android.walle.WalleChannelReader;
@@ -15,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
         System.loadLibrary("hello-jni");
     }
 
+
+
     TextView textView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
         textView=(TextView)findViewById(R.id.hello);
         HelloJni jni=new HelloJni();
         textView.setText(jni.fromJniString());
+
+
 
         String channel = WalleChannelReader.getChannel(this.getApplicationContext());
 
