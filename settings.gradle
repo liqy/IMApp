@@ -1,1 +1,1 @@
-include ':app', ':commonlib', ':aidldemo', ':remote'
+include ':app', ':commonlib', ':aidldemo', ':remote', ':easemob', ':simpledemo', ':easeui'

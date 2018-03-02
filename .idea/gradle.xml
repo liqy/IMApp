@@ -11,7 +11,10 @@
             <option value="$PROJECT_DIR$/aidldemo" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/commonlib" />
+            <option value="$PROJECT_DIR$/easemob" />
+            <option value="$PROJECT_DIR$/easeui" />
             <option value="$PROJECT_DIR$/remote" />
+            <option value="$PROJECT_DIR$/simpledemo" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
